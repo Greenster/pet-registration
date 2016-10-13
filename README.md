@@ -1,6 +1,6 @@
-#Java Project
+#Pet Registration
 
-*Java Project which contains a simple Java Application*
+*Java Pet Registration Application*
 
 * Java 7
 * Eclipse
