@@ -1,6 +1,7 @@
-#Pet Registration
+#JF Pet Registration System
 
-*Java Pet Registration Application*
+*Java Pet Registration System which registers a pet in the system.
+This code uses Pet Objects instead of Strings*
 
 * Java 7
 * Eclipse
